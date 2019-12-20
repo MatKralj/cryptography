@@ -1,0 +1,12 @@
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\bin\Debug\OS2Projekt.exe.config
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\bin\Debug\OS2Projekt.exe
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\bin\Debug\OS2Projekt.pdb
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.csprojAssemblyReference.cache
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.uiFormMain.resources
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.Properties.Resources.resources
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.csproj.GenerateResource.cache
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.csproj.CoreCompileInputs.cache
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.exe
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.pdb
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.PocetnaForma.resources
+D:\FOI\c#\KriptiranjeDekriptiranjeDigPotpis\OS2Projekt\obj\Debug\OS2Projekt.FormaZaPregledTeksta.resources
